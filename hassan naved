@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <div class="hassan">
+
+
+
+
+
+
+
+    <div class="header">
+       <div id="jk"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+       <div id="ki"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+      <div id="hn"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+      <div id="bh"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""> </div>
+      <div id="hi"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""> </div>
+         </div>
+
+
+
+
+
+
+         <div class="footer">
+            <div id="pakistan"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+            <div id="august"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>  
+            <div id="aanay"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+            <div id="wala"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""></div>
+            <div id="hai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGdWPi7Q5WwfCSKyP8JZIYt0_L_J-ijxi_Q&s" alt=""> </div>
+            
+              </div>
+     
+              
+        
+            </div>
+              
+    
+</body>
+</html>
